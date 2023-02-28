@@ -4,7 +4,7 @@ const client = new Client({
     user:"postgres",
     password:"kaviraj2003",
  connectionString: "postgres://postgres:kaviraj2003@localhost:5432/postgres",
- //ssl: true
+ ssl: true
 });
 
 module.exports = client
