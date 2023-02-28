@@ -14,10 +14,10 @@ Request URL  - /api/search?q=Mumbai&limit=2&offset=1
  Branch API to return possible matches based on the branch name ordered by IFSC code (descending order) with limit and offset
 
 Request URL  - /api/branch?q=LONI&limit=1&offset=0
+![image](https://user-images.githubusercontent.com/83957391/221861941-8104ca6d-45eb-4d8c-b645-639f21188c9c.png)
 
 Request URL  - /api/branch?q=LONI&limit=1&offset=1
-
-![image](https://user-images.githubusercontent.com/83957391/221861941-8104ca6d-45eb-4d8c-b645-639f21188c9c.png)
+![image](https://user-images.githubusercontent.com/83957391/221864175-9367a6ba-fada-497f-96b8-60742f6802ca.png)
 
 
 #Running server
